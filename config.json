@@ -1,0 +1,16 @@
+{
+  "metadataId": "",
+  "postdataurl": "",
+  "apikey": "",
+  "query": "",
+  "AWS_REGION": "",
+  "ACCESS_KEY_ID": "",
+  "SECRET_ACCESS_KEY": "",
+  "ATHENADATABASE": "",
+  "DATA_RESULTS_BUCKET": "",
+  "ATHENENCRYPTIONOPTION": {
+    "SSE_S3": "SSE_S3",
+    "SSE_KMS": "SSE_KMS",
+    "CSE_KMS": "CSE_KMS"
+  }
+}
