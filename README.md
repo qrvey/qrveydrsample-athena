@@ -52,7 +52,7 @@ In root folder with the following JSON:
 ```
 {
   "metadataId": "", //Use metadata created in the step #1
-  "postdataurl": "<postdataurl>", // Example: https://<API ID>.execute-api.<region>.amazonaws.com/Prod/dataload
+  "postdataurl": "<postdataurl>", // Example: https://<API ID>.execute-api.<region>.amazonaws.com
   "apikey": "<API key>",
   "query":"", //Query to execute in athena database.
   "AWS_REGION":"", //Aws region
